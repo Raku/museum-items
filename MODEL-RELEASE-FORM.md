@@ -8,7 +8,7 @@ of the model release form:
 - **Link to photograph in this repository (if available):**
 
 I permit The Perl Foundation and parties associated with the Perl 6 Museum
-and their licensees or assignees to use the photograph(s)and/or drawings therefrom and any other reproductions or adaptations therefrom either complete or in part alone or in conjunction with any wording and/or drawings for the purposes of creating the Perl 6 Museum.
+and their licensees or assignees to use the photograph(s)and/or drawings therefrom and any other reproductions or adaptations therefrom either complete or in part alone or in conjunction with any wording and/or drawings for the purposes of creating the Perl 6 Museum (web, digital, and print editions).
 
 I understand that I do not have any interest in the copyright to the photograph(s) nor shall I receive any further payment. I am over 18 years old. (Models who are under 18 years of age must provide evidence of consent by a parent or guardian to this model release.)
 
