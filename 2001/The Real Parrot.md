@@ -1,0 +1,3 @@
+Ostensibly in support of the Perl 6 project, [a new polyglot VM project named after the April Fool's Parrot prank was started and first released in 2001](https://github.com/parrot/parrot/blob/master/docs/parrothist.pod).
+
+(Within a few years this new VM was backed by [its own Foundation](http://parrot.org/foundation), whose incorporation charter, structure, and bye-laws gave it independence from the Perl 6 project. Unfortunately, the practical upshot of this independence was that, by the late 2000s, Parrot was a troubled and troublesome VM project hosting the troubled and troublesome NQP and Rakudo compiler Perl 6 projects and they fell apart and began going their separate ways in 2011.)
